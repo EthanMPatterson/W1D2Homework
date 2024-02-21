@@ -1,0 +1,37 @@
+.main{
+    justify-content: space-around;
+    width: 35%;
+    border: 1px solid rgb(187, 186, 186);
+    padding: 5%;
+    margin: auto;
+}
+
+#mainlogo{
+    height: 75px;
+    width: 135px;
+    margin-left: 375px;
+    margin-right: 400px;
+    margin-bottom: 0%;
+}
+
+.smalltext{
+    color: rgb(209, 209, 209);
+}
+
+.forgot{
+ color: blue;
+ text-align: right;
+}
+
+#help{
+    color: blue;
+
+}
+
+#lower > p {
+    text-align: center;
+}
+
+#button2{
+    margin-left: 345px;
+}
