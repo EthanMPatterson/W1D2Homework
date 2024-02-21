@@ -15,7 +15,7 @@
 }
 
 .smalltext{
-    color: rgb(209, 209, 209);
+    color: rgb(101, 101, 101);
 }
 
 .forgot{
@@ -35,3 +35,10 @@
 #button2{
     margin-left: 345px;
 }
+
+.inputs{
+    border: 1px solid rgb(147, 147, 147);
+    border-radius: 0px;
+    display: inline-block;
+}
+
