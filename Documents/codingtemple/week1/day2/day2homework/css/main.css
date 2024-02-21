@@ -1,21 +1,23 @@
 .main{
     justify-content: space-around;
-    width: 35%;
+    width: 250px;
     border: 1px solid rgb(187, 186, 186);
     padding: 5%;
     margin: auto;
+    height: 250px;
 }
 
 #mainlogo{
     height: 75px;
     width: 135px;
-    margin-left: 375px;
+    margin-left: 850px;
     margin-right: 400px;
     margin-bottom: 0%;
 }
 
 .smalltext{
     color: rgb(101, 101, 101);
+    font-size: large;
 }
 
 .forgot{
@@ -33,12 +35,37 @@
 }
 
 #button2{
-    margin-left: 345px;
+    margin-left: 825px;
+}
+
+h1{
+margin-left: -50px;
+margin-top: -50px;
+}
+
+
+.button{
+    background-color: orange;
+    border: 1px solid black;
+    width: 355px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: -55px;
 }
 
 .inputs{
-    border: 1px solid rgb(147, 147, 147);
-    border-radius: 0px;
-    display: inline-block;
+    width: 350px;
+    height: 30px;
+    margin-right: 250px;
+    margin-left: -28px;
 }
 
+footer{
+    color: blue;
+    margin-left: 850px;
+    margin-top: 300px;
+}
+
+#rights{
+    margin-left: 760px;
+}
